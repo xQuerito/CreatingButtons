@@ -2,20 +2,20 @@
 Quick task to practice creating buttons with JQuery, HTML and CSS.
 
 
-## TÍTULO:
+## TITLE:
 
-Herramientas para la creación de botones con JQuery, HTML5 Y CSS.
+Tools for the creation of buttons with JQuery, HTML5 Y CSS.
 
-## SITUACIÓN:
+## SITUATION:
 
-Usar herramientas web que permitan la creación de botones usando las tecnologías Jquery, css y html5 e insertarlas en la web asignando una función a cada botón.
+Use web tools that allow the creation of buttons using JQuery, CSS and HTML5 technologies and insert them in the web assigning a function to each button.
 
-## INSTRUCCIONES:
+## INSTRUCTIONS:
 
-1) Buscar dos herramientas en internet para la creación de botones con jquery, css y html5.
-2) Agregar los botones a una web realizada.
-3) Asociar una función a los botones
+1) Search for two tools on the internet for creating buttons with jquery, css and html5.
+2) Add the buttons to an existing web site.
+3) Associating a function to the buttons.
 
-## RECURSOS:
+## RESOURCES:
 
 CSS, HTML, JavaScript.
