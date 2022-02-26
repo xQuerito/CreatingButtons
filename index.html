@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+  <html>
+      <head>
+
+         <meta charset="UTF-8"/>   
+         <title>Quero_Antonio_UD4_Caso1</title>
+
+         <style type="text/css">
+           
+              @import 'https://fonts.googleapis.com/css?family=Rubik+One';
+
+              body, html { 
+                margin: 0; 
+                padding: 0; 
+                height: 100%; 
+                width: 100%; 
+                background: #e53935;
+                background: linear-gradient(to left, #e53935 , #e35d5b);
+              }
+
+              .bt1 { 
+                display: inline-block; 
+                padding: 20px 40px;
+                color: white;
+                position: absolute;
+                top: 30%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                vertical-align: middle;
+                font-family: 'Rubik One', sans-serif;
+                text-decoration: none;
+                font-size: 4vw;
+                transition: all .5s;
+                background-color: #3498db;
+              }
+
+              .bt2 { 
+                display: inline-block; 
+                padding: 20px 40px;
+                color: white;
+                position: absolute;
+                top: 70%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                vertical-align: middle;
+                font-family: 'Rubik One', sans-serif;
+                text-decoration: none;
+                font-size: 4vw;
+                transition: all .5s;
+                background-color: #3498db;
+              }
+
+         </style>
+
+         <script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+         <script type="text/javascript">
+
+              var x=$("document");
+              x.ready(inicio);
+          
+              function inicio(){
+                  $("#btn1").click(saludar);
+                  $("#btn2").click(saludar2);
+              }
+
+              function saludar(){
+                alert("¡Buenas Rubén!, ¿Que tál llevas el día?.");
+              }
+
+              function saludar2(){
+                alert("Soy Antonio Quero y estoy prácticando un poco con la creación de botones con JQuery, HTML y CSS.");
+              }
+
+         </script>
+
+      </head>
+
+      <body>
+
+         <button id="btn1" class="bt1"> Botón 1 </button>
+
+         <input id="btn2" class="bt2" type="button" name="btn" value="Botón 2">
+
+      </body>
+
+  </html>
