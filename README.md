@@ -4,7 +4,7 @@ Quick task to practice creating buttons with JQuery, HTML and CSS.
 
 ## TÍTULO:
 
-HERRAMIENTAS PARA LA CREACIÓN DE BOTONES CON JQUERY, HTML5 Y CSS.
+Herramientas para la creación de botones con JQuery, HTML5 Y CSS.
 
 ## SITUACIÓN:
 
